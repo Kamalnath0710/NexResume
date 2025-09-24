@@ -1,0 +1,34 @@
+{
+    "matched_required_skills": [
+        "Python",
+        "REST APIs"
+    ],
+    "missing_required_skills": [
+        "SQL",
+        "Debugging and Code Review",
+        "Version Control (Git)"
+    ],
+    "matched_optional_skills": [
+        "Docker",
+        "AWS Lambda",
+        "CI/CD Pipelines",
+        "Flask"
+    ],
+    "education_match": "Yes",
+    "experience_match": "Yes",
+    "keywords_matched": [
+        "Backend developer",
+        "web services",
+        "APIs",
+        "scalable microservices",
+        "cloud deployments",
+        "CI/CD pipelines"
+    ],
+    "soft_skills_match": "The candidate demonstrates strong mentoring abilities, team collaboration, and leadership through their experience in leading migrations and mentoring junior developers.",
+    "resume_summary": "Karthik Ramasamy is a backend developer with over 3 years of experience specializing in developing robust web services and APIs using Python. He has a proven track record in cloud deployments and CI/CD implementations.",
+    "match_score": 85.0,
+    "city_tier_match": "Yes",
+    "longest_tenure_months": 39,
+    "final_score": 85,
+    "candidate_name": "Karthik_Ramasamy_Resume_Verbose"
+}
